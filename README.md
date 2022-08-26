@@ -15,8 +15,8 @@ https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt
 * Created two Google Colab notebooks and extracted the Musical Instrument and Toys datasets.
 
 * Counted the number of records (rows) in the dataset
-  ** Musical Instrument Notebook: 904765
-  ** Toys Notebook: 4864249
+  * Musical Instrument Notebook: 904765
+  * Toys Notebook: 4864249
 
 * Transformed the dataset to fit the tables in the appropriate schema.
 
@@ -38,13 +38,13 @@ Jupyter Notebooks Downloaded from Google Colab files:
 
 SQL Files
 Musical Instrument Notebook Files:
-  *music_instruments_review_id_table.sql
-  *music_instruments_products.sql
-  *music_instruments_customers.sql
-  *music_instruments_vine_table.sql
+  * music_instruments_review_id_table.sql
+  * music_instruments_products.sql
+  * music_instruments_customers.sql
+  * music_instruments_vine_table.sql
 
 Toy Notebook Files:
-  *toy_review_id_table.sql
-  *toy_products.sql
-  *toy_customers.sql
-  *toy_vine_table.sql
+  * toy_review_id_table.sql
+  * toy_products.sql
+  * toy_customers.sql
+  * toy_vine_table.sql
